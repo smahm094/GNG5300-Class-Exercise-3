@@ -1,0 +1,52 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    background-color: rgb(57, 59, 57);
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;;
+  font-size: 20px;
+  color: #7b7978;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  padding-top: 10%;
+}
+
+/* container */
+.container {
+  padding: 30px;
+  background-color: white;
+}
+
+/* input */
+input[type=text], input[type=password] {
+  width: 20%;
+  padding: 15px;  
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+} 
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* link */
+a {
+  color: dodgerblue;
+}
