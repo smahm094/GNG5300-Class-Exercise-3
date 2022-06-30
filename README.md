@@ -1,5 +1,5 @@
 # Class Exercise: Week-3
-This is a week-3 exercise of graduate level course: GNG5300 - Full Stack Cloud Developer
+This is a week-3 exercise of graduate level course: GNG5300 - Full Stack Software Developer
 
 Problem Statement:
 
